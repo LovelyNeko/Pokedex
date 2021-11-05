@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jasper/OneDrive/Documenten/pokedex/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.303125" />
+        <entry key="..\:/Users/Jasper/OneDrive/Documenten/pokedex/app/src/main/res/layout/activity_kanto_region.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/Jasper/OneDrive/Documenten/pokedex/app/src/main/res/layout/activity_main.xml" value="0.195852534562212" />
+        <entry key="..\:/Users/Jasper/OneDrive/Documenten/pokedex/app/src/main/res/layout/activity_mega_dex.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/Jasper/OneDrive/Documenten/pokedex/app/src/main/res/layout/activity_national_dex.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/Jasper/OneDrive/Documenten/pokedex/app/src/main/res/layout/activity_regional_list.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/Jasper/OneDrive/Documenten/pokedex/app/src/main/res/layout/content_scrolling.xml" value="0.264" />
+        <entry key="..\:/Users/Jasper/OneDrive/Documenten/pokedex/app/src/main/res/menu/menu_regional_list.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.1606425702811245" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.1875" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/activity_hoenn.xml" value="0.25" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/activity_johto.xml" value="0.2359375" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/activity_kanto_region.xml" value="0.1" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/activity_mega_dex.xml" value="0.25" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/activity_national_dex.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/activity_pokemon.xml" value="0.2391304347826087" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/activity_region.xml" value="0.25" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/activity_regional_list.xml" value="0.25" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/content_pokemon.xml" value="0.2391304347826087" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/content_scrolling.xml" value="0.25" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/fragment_first.xml" value="0.2391304347826087" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/fragment_second.xml" value="0.2391304347826087" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/kanto_scroll.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/kento_scroll.xml" value="0.25" />
+        <entry key="..\:/Users/jasho/OneDrive/Documenten/pokedex/app/src/main/res/layout/kento_scroll_content.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
